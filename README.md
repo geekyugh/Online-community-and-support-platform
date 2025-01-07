@@ -1,6 +1,1 @@
-Run frontend using the following command
-  "npm run dev"
-Ensure "npm install vite --save" is installed.
-Run the backend using the following command
-  "npm start"
-  Ensure "npm install express --save" is installed.
+![Screenshot (177)](https://github.com/user-attachments/assets/9b79c4f3-9b2d-469b-8d47-a52191954f1f)
